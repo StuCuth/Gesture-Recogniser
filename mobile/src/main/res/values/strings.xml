@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Gesture Recogniser</string>
+    <string name="action_settings">Settings</string>
+    <string name="GestureSettingHead">Setting a new gesture:</string>
+    <string name="GestureSettingText">By default, the recognised by the watch to log a good or bad issue
+    is holding your watch up to your shoulder, yet it is recommended that you set your own gesture. To do this,
+    place your phone down and sit in your regular cycling position. Hold your wrist in a gesture position that feels comfortable
+    to you (We advise a position which will not be easily mistaken by the application). Then press the set
+    gesture button.</string>
+    <string name="title_activity_watch_gesture_settings">Set gesture</string>
+    <string name="about">The aim of this application is to deduce how quickly an accurately a gesture can be conducted using a smart watch.
+        To use this application, change the gesture to something which feels comfortable, this can be done through accessing the menu in the top right.
+        Next, press the start button. Once the start button has been pressed the watch will vibrate. This begins the evaluation. Within 5-10 seconds the watch will vibrate again; signalling
+    you to conduct your gesture. This will happen a total of 4 times. After the test is complete, an email will be sent to the evaluator with stats envolving the evaluation.</string>
+</resources>
